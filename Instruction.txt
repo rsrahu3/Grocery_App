@@ -1,0 +1,4 @@
+Step 1 :npm run install
+Step 2:npm run build
+step 3: npm test 
+Step 4:Run the index.html.You will get the Product with upvote and downvote.

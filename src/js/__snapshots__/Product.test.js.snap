@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link changes the class when hovered 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "#57EA1C",
+      "border": "2px solid black",
+      "height": "100px",
+      "marginLeft": "20px",
+      "padding": "30px",
+      "textAlign": "center",
+      "width": "200px",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "height": "80%",
+      }
+    }
+  >
+    Soap
+  </div>
+  <button
+    onClick={[Function]}
+    style={
+      Object {
+        "color": "green",
+      }
+    }
+  >
+    upvote:
+    0
+  </button>
+  <button
+    onClick={[Function]}
+    style={
+      Object {
+        "color": "red",
+      }
+    }
+  >
+    downvote:
+    -10
+  </button>
+</div>
+`;
